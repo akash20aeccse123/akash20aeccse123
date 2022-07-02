@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash20aeccse123" alt="akash20aeccse123" /></a> </p>
 
-- 🌱 I’m currently learning **Java OOPs**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 📫 How to reach me **akash20aeccse@gmail.com**
 
